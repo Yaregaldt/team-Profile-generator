@@ -20,8 +20,11 @@
   
   ## Usage 
   Use inquirer from your command line to answer questions about your project.
-  <img src="src/My team profile.gif"><br>
-  View link here - [Screencastify](https://drive.google.com/file/d/1cKbD1r_dVwqsTQXSkv-GQoPsosT7Q7gZ/view)
+  
+  ![npm_test](https://user-images.githubusercontent.com/88856885/155646000-e16edc38-53d1-4575-8f76-01ddfdd7432d.png)
+
+
+  View link here - [Screencastify]
   
   ## License 
   This project is license under MIT
