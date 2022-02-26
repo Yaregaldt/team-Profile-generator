@@ -78,7 +78,7 @@ const addManager= ()=>{
 };
 
 
-// employee inquirer
+// Employee inquirer
 const addEmployee = ()=>{
 
     return inquirer.prompt([
@@ -162,7 +162,7 @@ const addEmployee = ()=>{
 
     ])
    .then(employeeData => {
-        // data for employee types 
+        // Data for employee types 
 
         let { name, id, email, role, github, school, confirmAddEmployee } = employeeData; 
         let employee; 
@@ -189,7 +189,7 @@ const addEmployee = ()=>{
 
 };
 
-// generate html file for team profile
+// Generate html file for team profile
 const writeFile = data =>{
     fs.writeFile('./dist/index.html', data, err =>{
         // 
