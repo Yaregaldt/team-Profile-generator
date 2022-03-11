@@ -27,7 +27,7 @@
   View link here - [Screencastify-Record](https://drive.google.com/file/d/1u-YH6yMH8ZJA38kH7rXKzWsgiMPKEdMJ/view?usp=sharing)
   
   ## License 
-  This project is license under MIT
+  This project is licensed under MIT
   
   ## Contributing 
   When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owner of this repository before making a change.
