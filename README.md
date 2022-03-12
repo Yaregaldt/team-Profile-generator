@@ -36,4 +36,4 @@
   Run `npm test` to run Jest for unit test
   
   ## Questions
-  Feel free to reach me at yaregaldt@gmail.com. Visit my deployed GitHub applications by clicking [HERE](https://github.com/Yaregaldt)
+  Feel free to reach me at yaregald3@gmail.com. Visit my deployed GitHub applications by clicking [HERE](https://github.com/Yaregaldt)
